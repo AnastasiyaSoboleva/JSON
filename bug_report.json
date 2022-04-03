@@ -1,1 +1,6 @@
-
+{
+  "summary": "The button "9" doesn't work",
+  "steps": "Press the button "9"",
+  "actualResult": "the button "9" doesn't work",
+  "ExpectedResult": "the number 9 is on display"
+}
